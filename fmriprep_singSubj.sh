@@ -4,7 +4,7 @@
 
 #User inputs:
 bids_root_dir=$HOME/BHS2023_Project_ADHD/data/ds002424/
-subj=02
+subj=03
 nthreads=4
 mem=16 #gb
 container=docker #docker or singularity
